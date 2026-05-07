@@ -13,5 +13,5 @@ Mình hiện đang là sinh viên chuyên ngành An toàn thông tin tại HUIT.
 - **Lập trình mạng:** Xây dựng chương trình truyền file qua mạng sử dụng TCP/IP Socket bằng C#.
 
 ### 📫 Liên hệ với mình
-- Email: [Điền email của ông vô đây]
-- LinkedIn: [Điền link LinkedIn vô đây nếu có]
+- Email: honglx05@gmail.com
+
