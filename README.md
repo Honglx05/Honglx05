@@ -1,17 +1,13 @@
-# Chào mọi người, mình là Lê Xuân Hồng 👋
+Hi 👋, I'm Hong
 
-Mình hiện đang là sinh viên chuyên ngành An toàn thông tin tại HUIT. Mình đam mê tìm hiểu về bảo mật hệ thống, pháp chứng kỹ thuật số và phát triển phần mềm.
+My work motto is: "The magic you're looking for is in the work you're avoiding"
 
-### 🛠️ Kỹ năng & Công cụ
-- **Ngôn ngữ lập trình:** C# (Windows Forms), Python
-- **Cơ sở dữ liệu:** SQL (Oracle, SQLite)
-- **Công cụ Bảo mật & Mạng:** Nmap, Metasploit, Wireshark, Autopsy
+🔭 I'm an A junior security analyst in HUIT.
 
-### 🚀 Dự án tiêu biểu
-- **Pháp chứng Kỹ thuật số (Digital Forensics):** Phân tích và phục hồi dữ liệu từ hệ quản trị cơ sở dữ liệu SQLite.
-- **Kiểm thử Bảo mật Web (Web Penetration Testing):** Thực hành khai thác các lỗ hổng SQL Injection, XSS, CSRF (DVWA).
-- **Lập trình mạng:** Xây dựng chương trình truyền file qua mạng sử dụng TCP/IP Socket bằng C#.
+🌱 I’m currently learning machine learning.
 
-### 📫 Liên hệ với mình
-- Email: honglx05@gmail.com
+💬 Ask me about react.
 
+📫 How to reach me honglx05.
+
+⚡ I'm ready to hear your fun stories! Can you share one with me?
